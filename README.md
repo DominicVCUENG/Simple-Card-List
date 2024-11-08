@@ -42,7 +42,7 @@ This repository contains the source code for the Simple Card List Application, a
 git clone https://github.com/DominicVCUENG/Simple-Card-List.git
 ```
 
-### Backend
+**Backend**
 
 2. Navigate to the backend directory:
 
@@ -62,7 +62,7 @@ npm install
 npm start
 ```
 
-### Frontend
+**Frontend**
 
 5. Navigate to the frontend directory:
 

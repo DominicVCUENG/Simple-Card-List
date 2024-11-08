@@ -39,10 +39,14 @@ const ProductList = () => {
 			sx={{ 
 				padding: '50px 0 50px'
 			}}>
-			<Typography variant="h3" align="center" sx={{
-				fontWeight: 'bold',
-				marginBottom: '50px'
-			}}>
+			<Typography 
+				variant="h3" 
+				align="center" 
+				sx={{
+					fontWeight: 'bold',
+					marginBottom: '50px'
+				}}
+			>
 				Simple Card List
 			</Typography>
 			<Grid 
