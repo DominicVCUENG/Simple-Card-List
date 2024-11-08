@@ -59,7 +59,7 @@ npm install
 4. Start the backend server:
 
 ```
-npm start
+node index.js
 ```
 
 **Frontend**
